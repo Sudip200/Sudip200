@@ -18,11 +18,6 @@
 ..and more 
 </div>
 
-# Few of My Projects
-<div style="display:flex;align-items:center">
-  <img src="https://github.com/Sudip200/Sudip200/assets/98449874/83de105d-6777-4361-bf9f-0370f6aef58e" width="300" />
-  <img src="https://github.com/Sudip200/Sudip200/assets/98449874/94c48603-9b0d-4f6b-a2c5-9308ae82c82d" width="300" />
-<img src="https://github.com/Sudip200/Sudip200/assets/98449874/63b7127d-740f-4310-b16f-02f641fe120d" width="300" />
-..and much more 
+
 </div>
 
