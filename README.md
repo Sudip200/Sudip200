@@ -7,11 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/sudipto02776470" target="blank"><img src="https://img.shields.io/twitter/follow/sudipto02776470?logo=twitter&style=for-the-badge" alt="sudipto02776470" /></a> </p>
 
-- 🔭 I’m currently working on [ByteLearn](https://github.com/Sudip200/bytelearn)
+- 🔭 I’m currently working on [Super Rate Limiter](https://github.com/Sudip200/super-rate-limiter)
 
 - 🌱 I’m currently learning **Flutter ,TypeScript ,Firebase**
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=6643958101168096955&hl=en&gl=US](https://play.google.com/store/apps/dev?id=6643958101168096955&hl=en&gl=US)
 
 - 📫 How to reach me **dassudipto200@gmail.com**
 
